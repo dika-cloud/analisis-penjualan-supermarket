@@ -1,14 +1,14 @@
-Proyek ini bertujuan untuk menganalisis data penjualan dari cabang supermarket untuk memberikan wawasan yang dapat mendukung keputusan strategis. Analisis mencakup beberapa aspek penting seperti perilaku pembayaran pelanggan, efisiensi biaya pengiriman, karakteristik produk, dan distribusi kuantitas penjualan.
+# Analisis Data Penjualan E-Commerce 🛒
+Proyek ini bertujuan untuk melakukan eksplorasi dan analisis data penjualan dari sebuah platform e-commerce. Analisis difokuskan pada metode pembayaran, biaya pengiriman, karakteristik produk, serta distribusi quantity penjualan.
 
-**Tujuan Analisis:**
-
+### Tujuan Analisis:
 1. Mengidentifikasi median nilai transaksi per metode pembayaran.
 2. Menemukan metode pembayaran dengan nilai transaksi rata-rata (basket size) terbesar.
 3. Menganalisis biaya pengiriman (shipping cost).
 4. Memahami karakteristik berat produk per kategori.
 5. Memvisualisasikan sebaran kuantitas penjualan.
 
-**Tahapan Analisis**
+### Tahapan Analisis
 1. Persiapan Data
    
   - Memuat data menggunakan pandas.
